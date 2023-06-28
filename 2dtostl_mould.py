@@ -1,7 +1,7 @@
 """
 Author: Alexis Devillard
 Date: 2023-06-27
-Description: This script is used to generate the surfaces with the different frequencies of noise and pattern. The surfaces are saved as .npy, .png and .stl files.
+Description: This script is used to generate surfaces with the different frequencies of noise and pattern. The surfaces are saved as .npy, .png and .stl files.
 """
 
 import numpy as np
